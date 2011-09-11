@@ -1,1 +1,5 @@
 A simple fifo queue for php
+
+you can run the memoryUsage.php to see it against using arrays and SplQueue.  Obviously those two are going to be faster as they are built in.
+
+This was just something I did for fun while watching some formula 1 qualifying.
